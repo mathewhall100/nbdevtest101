@@ -22,3 +22,11 @@ say_hello('Kim')
     'Hello Kim!'
 
 
+
+```
+bubble_scatter(50)
+```
+
+
+![png](docs/images/output_6_0.png)
+

@@ -3,8 +3,12 @@
 __all__ = ['say_hello', 'HelloSayer', 'bubble_scatter']
 
 # Cell
+import numpy as np
+import matplotlib.pyplot as plt
+
+# Cell
 def say_hello(to):
-    "Say hello to somebody"
+    "Say hello to anybody"
     return f'Hello {to}!'
 
 # Cell
